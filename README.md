@@ -2,7 +2,7 @@
 ## Transformando a Produtividade Comercial através da Inteligência Artificial Genativa, Agêntica e da Gestão de Mudanças Centrada nas Pessoas
 
 ---
-### *Link para o caderno:* *https://notebooklm.google.com/notebook/8bc3a552-76e4-4a4c-904a-94c29e5c984f*
+### *Link para o caderno:* *https://notebooklm.google.com/notebook/8bc3a552-76e4-4a4c-904a-94c29e5c984f/preview*
 
 
 ## 1. Contexto e Objetivos
