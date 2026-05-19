@@ -44,7 +44,7 @@ Para alimentar este estudo no NotebookLM, foram selecionadas as seguintes fontes
 
 ---
 
-## 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+## 3. Engenharia de Prompts e Troubleshooting
 
 ### Evolução dos Prompts
 
