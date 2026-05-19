@@ -1,4 +1,4 @@
-# Miniguia: Change Enablement e IA para Times de Vendas 
+# Miniguia: Gestão da Mudança e IA para Times de Vendas 
 ## Transformando a Produtividade Comercial através da Inteligência Artificial Genativa, Agêntica e da Gestão de Mudanças Centrada nas Pessoas
 
 ---
